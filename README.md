@@ -23,7 +23,7 @@ If you're hiring, learning, or just nosy about how a Superstore-style dataset tu
 | `cleaned_sales_data.xlsx` | Cleaned & enriched dataset — deduplicated, standardized regions/categories, formatted dates, plus pivot tables and embedded charts across 8 sheets |
 | `superstore_queries.sql` | 8 SQL queries covering regional performance, category profitability, monthly trends, discount impact, and top customers |
 | `business_insights_report.pdf` | 1–2 page executive summary translating the numbers into actual recommendations |
-| `Superstore_Dashboard.pbix` | Power BI dashboard file |
+| `Internship DashBoard(SuperStore).pbix` | Power BI dashboard file |
 | `powerbi_dashboard_screenshot.png` | Final dashboard preview |
 
 ---
